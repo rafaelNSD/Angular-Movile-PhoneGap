@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+declare var device;
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mobile-app';
+
+  ngOnInit() {
+    document.addEventListener("deviceready", function() {
+    alert(device.platform);
+    }, false);
+  } 
 }
