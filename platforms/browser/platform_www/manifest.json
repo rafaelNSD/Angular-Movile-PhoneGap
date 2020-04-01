@@ -1,6 +1,6 @@
 {
-  "name": "My Ng App",
-  "short_name": "My Ng App",
+  "name": "appAngular",
+  "short_name": "appAngular",
   "description": "Description of your app from template",
   "start_url": "index.html",
   "scope": "index.html",

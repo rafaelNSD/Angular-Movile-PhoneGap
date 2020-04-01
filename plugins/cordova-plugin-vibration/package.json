@@ -22,7 +22,7 @@
   "_resolved": "https://registry.npmjs.org/cordova-plugin-vibration/-/cordova-plugin-vibration-2.1.6.tgz",
   "_shasum": "e57295892cf15e44b0c99f8feb44774395cb4a3e",
   "_spec": "cordova-plugin-vibration@~2.1.5",
-  "_where": "C:\\temp\\ng-myapp\\phonegap",
+  "_where": "C:\\Mobile-Angular\\Angular-Mobile\\Angular-Mobile\\ClientApp\\mobileApp",
   "author": {
     "name": "Apache Software Foundation"
   },

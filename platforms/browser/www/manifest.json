@@ -1,9 +1,9 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "My Ng App",
-  "short_name": "My Ng App",
-  "version": "com.ngexample.app",
+  "name": "appAngular",
+  "short_name": "appAngular",
+  "version": "org.angular.sample",
   "description": "Hello World sample application that responds to the deviceready event.",
   "author": "PhoneGap Team",
   "icons": [],
