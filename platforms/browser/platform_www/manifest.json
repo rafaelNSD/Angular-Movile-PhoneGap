@@ -1,6 +1,6 @@
 {
-  "name": "appAngular",
-  "short_name": "appAngular",
+  "name": "ChatAppMobileApp",
+  "short_name": "ChatAppMobileApp",
   "description": "Description of your app from template",
   "start_url": "index.html",
   "scope": "index.html",

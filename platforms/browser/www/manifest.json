@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "appAngular",
-  "short_name": "appAngular",
-  "version": "org.angular.sample",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "name": "ChatAppMobileApp",
+  "short_name": "ChatAppMobileApp",
+  "version": "org.student1.chatapp",
+  "description": "Chat Mobile App.",
   "author": "PhoneGap Team",
   "icons": [],
   "start_url": "index.html"

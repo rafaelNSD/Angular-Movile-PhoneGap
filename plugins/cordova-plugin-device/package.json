@@ -1,54 +1,48 @@
 {
-  "_from": "cordova-plugin-device@~1.1.6",
-  "_id": "cordova-plugin-device@1.1.7",
+  "_args": [
+    [
+      "cordova-plugin-device@2.0.3",
+      "C:\\Users\\kiuby\\OneDrive\\Escritorio\\chat-app"
+    ]
+  ],
+  "_from": "cordova-plugin-device@2.0.3",
+  "_id": "cordova-plugin-device@2.0.3",
   "_inBundle": false,
-  "_integrity": "sha1-/JQRG+aTJijGaGiTjd89yCyfv+Y=",
+  "_integrity": "sha512-Jb3V72btxf3XHpkPQsGdyc8N6tVBYn1vsxSFj43fIz9vonJDUThYPCJJHqk6PX6N4dJw6I4FjxkpfCR4LDYMlw==",
   "_location": "/cordova-plugin-device",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "cordova-plugin-device@~1.1.6",
+    "raw": "cordova-plugin-device@2.0.3",
     "name": "cordova-plugin-device",
     "escapedName": "cordova-plugin-device",
-    "rawSpec": "~1.1.6",
+    "rawSpec": "2.0.3",
     "saveSpec": null,
-    "fetchSpec": "~1.1.6"
+    "fetchSpec": "2.0.3"
   },
   "_requiredBy": [
-    "#DEV:/",
-    "#USER"
+    "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-plugin-device/-/cordova-plugin-device-1.1.7.tgz",
-  "_shasum": "fc94111be6932628c66868938ddf3dc82c9fbfe6",
-  "_spec": "cordova-plugin-device@~1.1.6",
-  "_where": "C:\\Mobile-Angular\\Angular-Mobile\\Angular-Mobile\\ClientApp\\mobileApp",
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-device/-/cordova-plugin-device-2.0.3.tgz",
+  "_spec": "2.0.3",
+  "_where": "C:\\Users\\kiuby\\OneDrive\\Escritorio\\chat-app",
   "author": {
     "name": "Apache Software Foundation"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
   },
-  "bundleDependencies": false,
   "cordova": {
     "id": "cordova-plugin-device",
     "platforms": [
-      "firefoxos",
-      "tizen",
       "android",
-      "amazon-fireos",
-      "ubuntu",
       "ios",
-      "blackberry10",
-      "wp7",
-      "wp8",
-      "windows8",
       "windows",
       "browser",
       "osx"
     ]
   },
-  "deprecated": false,
   "description": "Cordova Device Plugin",
   "devDependencies": {
     "eslint": "^3.19.0",
@@ -61,7 +55,7 @@
   },
   "engines": {
     "cordovaDependencies": {
-      "2.0.0": {
+      "3.0.0": {
         "cordova": ">100"
       }
     }
@@ -71,16 +65,8 @@
     "cordova",
     "device",
     "ecosystem:cordova",
-    "cordova-firefoxos",
-    "cordova-tizen",
     "cordova-android",
-    "cordova-amazon-fireos",
-    "cordova-ubuntu",
     "cordova-ios",
-    "cordova-blackberry10",
-    "cordova-wp7",
-    "cordova-wp8",
-    "cordova-windows8",
     "cordova-windows",
     "cordova-browser",
     "cordova-osx"
@@ -96,5 +82,5 @@
     "test": "npm run eslint"
   },
   "types": "./types/index.d.ts",
-  "version": "1.1.7"
+  "version": "2.0.3"
 }

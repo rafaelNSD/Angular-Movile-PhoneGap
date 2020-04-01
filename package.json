@@ -1,1 +1,69 @@
-{"devDependencies":{"cordova-plugin-battery-status":"~1.2.4","cordova-plugin-camera":"~2.4.1","cordova-plugin-media-capture":"~1.4.3","cordova-plugin-device":"~1.1.6","cordova-plugin-dialogs":"~1.3.3","cordova-plugin-file":"~4.3.3","cordova-plugin-geolocation":"~2.4.3","cordova-plugin-globalization":"~1.0.7","cordova-plugin-inappbrowser":"~1.7.1","cordova-plugin-network-information":"~1.3.3","cordova-plugin-vibration":"~2.1.5","cordova-plugin-whitelist":"1.3.0"},"cordova":{"plugins":{"cordova-plugin-battery-status":{},"cordova-plugin-camera":{},"cordova-plugin-media-capture":{},"cordova-plugin-device":{},"cordova-plugin-dialogs":{},"cordova-plugin-file":{},"cordova-plugin-geolocation":{},"cordova-plugin-globalization":{},"cordova-plugin-inappbrowser":{},"cordova-plugin-network-information":{},"cordova-plugin-vibration":{},"cordova-plugin-whitelist":{}}},"dependencies":{"cordova-browser":"^6.0.0"}}
+{
+  "name": "org.student1.chatapp",
+  "displayName": "Chat app",
+  "version": "1.0.0",
+  "description": "Chat Mobile App.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+git clone https://rmezaNSD@bitbucket.org/studentone/student1-comms-webandapi.git"
+  },
+  "author": "Student1",
+  "license": "Ed-fi License",
+  "homepage": "https://rmezaNSD@bitbucket.org/studentone/student1-comms-webandapi#readme",
+  "dependencies": {
+    "@angular/animations": "~8.2.14",
+    "@angular/common": "~8.2.14",
+    "@angular/compiler": "~8.2.14",
+    "@angular/core": "~8.2.14",
+    "@angular/forms": "~8.2.14",
+    "@angular/platform-browser": "~8.2.14",
+    "@angular/platform-browser-dynamic": "~8.2.14",
+    "@angular/router": "~8.2.14",
+    "cordova-android": "^8.1.0",
+    "cordova-plugin-device": "^2.0.2",
+    "cordova-plugin-whitelist": "^1.3.3",
+    "core-js": "^2.5.4",
+    "rxjs": "~6.4.0",
+    "tslib": "^1.10.0",
+    "zone.js": "~0.9.1"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-device": {}
+    },
+    "platforms": [
+      "android"
+    ]
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.803.21",
+    "@angular/cli": "~8.3.21",
+    "@angular/compiler-cli": "~8.2.14",
+    "@angular/language-service": "~8.2.14",
+    "@types/node": "~8.9.4",
+    "@types/jasmine": "~3.3.8",
+    "@types/jasminewd2": "~2.0.3",
+    "codelyzer": "^5.0.0",
+    "jasmine-core": "~3.4.0",
+    "jasmine-spec-reporter": "~4.2.1",
+    "karma": "~4.1.0",
+    "karma-chrome-launcher": "~2.2.0",
+    "karma-coverage-istanbul-reporter": "~2.0.1",
+    "karma-jasmine": "~2.0.1",
+    "karma-jasmine-html-reporter": "^1.4.0",
+    "protractor": "~5.4.0",
+    "ts-node": "~7.0.0",
+    "tslint": "~5.15.0",
+    "typescript": "~3.5.3"
+  }
+}

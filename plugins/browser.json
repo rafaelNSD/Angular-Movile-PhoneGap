@@ -7,43 +7,12 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-battery-status": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-camera": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
     "cordova-plugin-device": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-dialogs": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-file": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-geolocation": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-globalization": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-network-information": {
-      "PACKAGE_NAME": "org.angular.sample"
-    },
-    "cordova-plugin-vibration": {
-      "PACKAGE_NAME": "org.angular.sample"
+      "PACKAGE_NAME": "org.student1.chatapp"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "org.angular.sample"
+      "PACKAGE_NAME": "org.student1.chatapp"
     }
   },
-  "dependent_plugins": {
-    "cordova-plugin-compat": {
-      "PACKAGE_NAME": "org.angular.sample"
-    }
-  }
+  "dependent_plugins": {}
 }
